@@ -1,3 +1,7 @@
+# 2018/10/09 Forked from antirez/redis, Read source code.
+1. sds.c、sds.h
+
+
 This README is just a fast *quick start* document. You can find more detailed documentation at http://redis.io.
 
 What is Redis?
